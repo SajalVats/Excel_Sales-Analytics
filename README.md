@@ -1,5 +1,5 @@
-# [Excel_Sales-Analytics](https://github.com/SajalVats/Excel_Sales-Analytics)
-## [Sales Report:](https://github.com/SajalVats/Excel_Sales-Analytics/blob/main/Customer_Performance_Overall.pdf)
+# Excel_Sales-Analytics
+## Sales Report:
 
 - **Project objective:** 
 
@@ -14,7 +14,7 @@
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
-## [Finance Report:](https://github.com/SajalVats/Excel_Sales-Analytics/blob/main/P%26L%20by%20FY.pdf)
+## Finance Report:
 
 - **Project objective:** 
 
